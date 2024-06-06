@@ -1,5 +1,3 @@
-# MinimalisticView
-
 ❗ They saw the Storm, and they shall see the Fury
 
 [VS Marketplace page](https://marketplace.visualstudio.com/items?itemName=Poma.MinimalisticView)
