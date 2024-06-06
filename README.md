@@ -1,6 +1,6 @@
 # MinimalisticView
 
-❗ **Looking for maintainers.** I use Visual Studio pretty rarely nowdays, would be cool if someone takes over the support of this plugin.
+❗ They saw the Storm, and they shall see the Fury
 
 [VS Marketplace page](https://marketplace.visualstudio.com/items?itemName=Poma.MinimalisticView)
 
